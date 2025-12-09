@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manya</h1>
 A Curious mind who recently found her interest in Cyber Security (Especially in Malware and Memory Analysis with Cryptography)
-I love understanding how threats operate under the hood — from **process injection** to **kernel-level artifacts** — and investigating incidents like a digital detective.
+I love understanding how threats operate under the hood — from process injection to kernel-level artifacts — and investigating incidents like a digital detective.
 
 I enjoy:
 - 🧠 Memory analysis using **Volatility 2 & 3**
@@ -11,7 +11,8 @@ I enjoy:
 
 ---
 
-🛠️ Tech & Tools I have tried and is still discovering more about 
+🛠️ Tech & Tools I have tried and is still discovering more about
+
 **Forensics & IR:**  
 `Volatility` • `Autopsy` • `FTK Imager` • `Plaso` • `Regshot`  
 
@@ -46,15 +47,6 @@ I enjoy:
 - Contributed across the project stack: API development, algorithm workflows, testing, and team coordination.  
 - GitHub Repository: 👉 [EnDecoder](https://github.com/manyajain12212367/EnDecoder.git)
   
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyajain12212367&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyajain12212367&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-
 ---
 
 ## 📫 Connect With Me  
