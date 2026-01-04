@@ -49,6 +49,18 @@ I enjoy:
   
 ---
 
+### **📓 Cybersecurity Journal (Ongoing)**
+
+I learned that journaling helps learning stick — so I decided to journal my cybersecurity journey.
+
+After exploring multiple domains during my B.Tech CSE, cybersecurity finally clicked when it was presented from a different perspective. By March 2025, I chose this field, and by September 2025, I found my core interest in defensive security, especially malware and memory analysis.
+
+Now, I’m restarting from the basics (ISC2 CC), revisiting tools, and rebuilding my knowledge cleanly and intentionally — strengthening fundamentals and replacing scattered understanding with a solid foundation.
+
+📘 Journal →
+
+---
+
 ## 📫 Connect With Me  
 - 💼 LinkedIn: www.linkedin.com/in/manya-jain-124184252
 - 📧 Email: jainmanya1511@gmail.com
