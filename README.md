@@ -49,7 +49,7 @@ I enjoy:
   
 ---
 
-### **📓 Cybersecurity Journal (Ongoing)**
+## **📓 Cybersecurity Journal (Ongoing)**
 
 I learned that journaling helps learning stick — so I decided to journal my cybersecurity journey.
 
