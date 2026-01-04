@@ -57,7 +57,7 @@ After exploring multiple domains during my B.Tech CSE, cybersecurity finally cli
 
 Now, I’m restarting from the basics (ISC2 CC), revisiting tools, and rebuilding my knowledge cleanly and intentionally — strengthening fundamentals and replacing scattered understanding with a solid foundation.
 
-📘 Journal →
+📘 Journal → https://github.com/manyajain12212367/CyberSecurity_Journal.git
 
 ---
 
